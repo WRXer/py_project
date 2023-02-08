@@ -1,3 +1,5 @@
-a = 3
-b = 4
-print(a+ b)
+def summing():
+    return x + y
+
+def subtraction():
+    return x - y
